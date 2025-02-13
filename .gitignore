@@ -1,0 +1,16 @@
+bin/
+node_modules/
+public/
+routes/
+app.js
+package.json
+package-lock.json
+Viikko6/bin/
+Viikko6/node_modules/
+Viikko6/routes/
+Viikko6/app.js
+Viikko6/esim1.js
+Viikko6/package.json
+Viikko6/package-lock.json
+Viikko6/testi.js
+
