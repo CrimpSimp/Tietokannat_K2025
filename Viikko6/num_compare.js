@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 var num1 = prompt("Give a number");
 var num2 = prompt("Give a second number");
 
