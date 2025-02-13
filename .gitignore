@@ -5,12 +5,12 @@ routes/
 app.js
 package.json
 package-lock.json
-Viikko6/bin/
-Viikko6/node_modules/
-Viikko6/routes/
-Viikko6/app.js
-Viikko6/esim1.js
-Viikko6/package.json
-Viikko6/package-lock.json
-Viikko6/testi.js
+viikko6/bin/
+viikko6/node_modules/
+viikko6/routes/
+viikko6/app.js
+viikko6/esim1.js
+viikko6/package.json
+viikko6/package-lock.json
+viikko6/testi.js
 
